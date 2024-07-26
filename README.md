@@ -5,7 +5,7 @@ This repository contains the implementation of the Perceptron algorithm from scr
 The Perceptron algorithm is a supervised learning algorithm used for binary classification tasks. It updates its weights based on the misclassification error, iteratively improving the decision boundary until it converges or reaches a specified number of iterations.
 ## Repository Structure
 
-'''bash
+```bash
 perceptron-algorithm/
 │
 ├── Data/
