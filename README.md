@@ -18,6 +18,8 @@ perceptron-algorithm/
 └── README.md
 
 
+
+
 ## Files
 
 - **Data/annotated_points_np_200.csv**: This file contains the dataset used for  the Perceptron algorithm.
