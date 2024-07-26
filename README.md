@@ -16,7 +16,7 @@ perceptron-algorithm/
 │   └── perceptron_2d_data_rakesh_nemu_version_no_1.ipynb
 │
 └── README.md
-
+```
 
 
 
