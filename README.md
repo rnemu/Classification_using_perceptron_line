@@ -5,11 +5,18 @@ This repository contains the implementation of the Perceptron algorithm from scr
 The Perceptron algorithm is a supervised learning algorithm used for binary classification tasks. It updates its weights based on the misclassification error, iteratively improving the decision boundary until it converges or reaches a specified number of iterations.
 ## Repository Structure
 
+'''bash
+perceptron-algorithm/
+│
 ├── Data/
-│ └── dataset.csv # Contains the dataset used for training and testing
-└── Code/
-├── gui_inputs.py # Script for GUI inputs for 200 annotated points
-└── perceptron_2d_data_rakesh_nemu_version_no_1.ipynb # Jupyter notebook with the 
+│   └── dataset.csv
+│
+├── Code/
+│   ├── gui_inputs.py
+│   └── perceptron_2d_data_rakesh_nemu_version_no_1.ipynb
+│
+└── README.md
+
 
 ## Files
 
